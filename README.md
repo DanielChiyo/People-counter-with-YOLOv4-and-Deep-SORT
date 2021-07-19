@@ -7,3 +7,6 @@ Changes we're made to object_control.py file so it generates a csv file with peo
 
 To run this repository, use The AI Guy's colab link [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 and change the object_tracker.py to the code in this repository. Other option is to change the original Google Colab cell number 2 git clone link to this https://github.com/DanielChiyo/People-counter-with-YOLOv4-and-Deep-SORT instead.
+
+
+Deep SORT's Amax (number of frames a person's features is saved before freeing the ID) not being considered, it might cause counting errors processing longer videos.
