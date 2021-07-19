@@ -19,3 +19,10 @@ The increased contrast and sharpness video : https://drive.google.com/file/d/1CR
 
 Besides the outputed video shown in "Result example" there will also be a CSV file with the data (Time in seconds).
 ![image](https://user-images.githubusercontent.com/26650300/126177680-bdfe3ec0-de45-48a1-ba21-b43e2e5e7db4.png)
+
+
+To try different videos you have to make changes in step 6
+![image](https://user-images.githubusercontent.com/26650300/126179394-59f8e610-02ed-48a6-9116-0252e47572aa.png)
+Upload the video you want to process and change the parameter of --video to the new video's path.
+You can upload your video and check the path in the left side of your google colaboratory:
+![image](https://user-images.githubusercontent.com/26650300/126179725-5e139c13-1c26-4671-a60d-569f9b83aed7.png)
