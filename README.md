@@ -17,5 +17,5 @@ Adobe Premiere was used to increase contrast and sharpness (both increased to 32
 The original video cut using Premiere : https://drive.google.com/file/d/1_h1gqlhcF5iat7uqKbWkqppuQmIeiYjo/view?usp=sharing
 The increased contrast and sharpness video : https://drive.google.com/file/d/1CRBA46BGLv4mBw3wsDoMyY4h_GM_MFJa/view?usp=sharing
 
-Besides the outputed video shown in "Result example" there will also be a CSV file with the data
+Besides the outputed video shown in "Result example" there will also be a CSV file with the data (Time in seconds).
 ![image](https://user-images.githubusercontent.com/26650300/126177680-bdfe3ec0-de45-48a1-ba21-b43e2e5e7db4.png)
