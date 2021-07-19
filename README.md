@@ -9,4 +9,4 @@ To run this repository, use The AI Guy's colab link [![Open In Colab](https://co
 and change the object_tracker.py to the code in this repository. Other option is to change the original Google Colab cell number 2 git clone link to this https://github.com/DanielChiyo/People-counter-with-YOLOv4-and-Deep-SORT instead.
 
 
-Deep SORT's Amax (number of frames a person's features is saved before freeing the ID) not being considered, it might cause counting errors processing longer videos.
+Deep SORT's Amax (number of frames a person's features keeps saved before freeing the ID) not being considered, it might cause counting errors processing longer videos.
